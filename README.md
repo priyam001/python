@@ -1,7 +1,7 @@
-Member:                           College                               Reg No.
-Priyam Subhash Patel              SVMIT,Bharuch                         1.7045E+11
-Jeet Jadhav                       SVMIT,Bharuch                         1.7045E+11
-Yagnesh Limbachiya                SVMIT,Bharuch                         1.7045E+11
+Member
+- Priyam Subhash Patel              SVMIT,Bharuch                         1.7045E+11
+- Jeet Jadhav                       SVMIT,Bharuch                         1.7045E+11
+- Yagnesh Limbachiya                SVMIT,Bharuch                         1.7045E+11
 
 Team Lead: Priyam Subhash Patel
 
